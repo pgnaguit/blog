@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{Patrick}</title>
+        <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello! I'm Patrick Naguit,  a student from University of the Assumption.</p>
